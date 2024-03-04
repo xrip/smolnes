@@ -2,6 +2,8 @@
 
 A NES emulator in ~5000 significant bytes of c.
 
+Zero dependencies Win32 build using cutomized older version of [MiniFB](https://github.com/emoon/minifb) with frame limiting and keyboard handling.
+
 ## Features
 
 Plays some mapper 0/1/2/3/4/7 games.
